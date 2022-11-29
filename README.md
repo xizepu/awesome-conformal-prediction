@@ -532,10 +532,11 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 
 ## Websites
 1. [Main website with research from Prof. Vladimir (Volodya) Vovk](http://alrw.net) 🔥🔥🔥🔥🔥
-2. [Conformal Prediction - Prediction with guaranteed performance](https://cml.rhul.ac.uk/cp.html) Royal Holloway, United Kingdom
-3. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://people.eecs.berkeley.edu/~angelopoulos/blog/posts/gentle-intro/) by Anastasios N. Angelopoulos 🔥🔥🔥🔥🔥
-4. [Reliable Predictive Inference](https://sites.google.com/view/cqr) by Yaniv Romano 🔥🔥🔥🔥🔥
-5. [Wiki for On-Line Prediction](http://onlineprediction.net/) by Vladimir Vovk
+2. [Wiki for On-Line Prediction](http://onlineprediction.net/) by Vladimir Vovk
+3. [Conformal Prediction - Prediction with guaranteed performance](https://cml.rhul.ac.uk/cp.html) Royal Holloway, United Kingdom
+4. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://people.eecs.berkeley.edu/~angelopoulos/blog/posts/gentle-intro/) by Anastasios N. Angelopoulos 🔥🔥🔥🔥🔥
+5. [Reliable Predictive Inference](https://sites.google.com/view/cqr) by Yaniv Romano 🔥🔥🔥🔥🔥
+
 
 ## Twitter
 1. [Title: What Can *Conformal Inference* Offer to Statistics?](https://t.co/znZHcyyknV) by Lihua Lei, Stanford, 2022
